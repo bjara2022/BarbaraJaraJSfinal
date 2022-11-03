@@ -1,0 +1,23 @@
+[
+	{
+		"id": 1,
+		"nombre": "Crema post-tatto",
+		"precio": 10,
+		"img": "../imagenes/crema.jpeg",
+		"cantidad": 1
+	},
+	{
+		"id": 2,
+		"nombre": "Jabón anti-bacterial",
+		"precio": 20,
+		"img": "../imagenes/jabon.jpeg",
+		"cantidad": 1
+	},
+	{
+		"id": 3,
+		"nombre": "Jabón limpiador",
+		"precio": 100,
+		"img": "../imagenes/limpiador.jpeg",
+		"cantidad": 1
+	}
+]
